@@ -89,7 +89,9 @@ anova(model.1, model.3)
 ```
 
 
-
+```{r}
+anova(model.2, model.3)
+```
 
 
 
